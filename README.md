@@ -1,6 +1,5 @@
 # cybersecurity-portfolio
 A project used to track my progression during this program
-# cybersecurity-portfolio
 # About Me
 **Name:** Alicia C Allen
 **Hometown:** Decatur, GA
