@@ -1,2 +1,9 @@
-# cybersecurity-portfolio1
+# cybersecurity-portfolio
 A project used to track my progression during this program
+# cybersecurity-portfolio
+# About Me
+**Name:** Alicia C Allen
+**Hometown:** Decatur, GA
+**Prior IT experience:** Within the realm of IT, I have done things that include but not limited to, software and hardware installations, software configuarations, assest and peripheral management, computer reimaging etc. I have completed projects at ATC(Atlanta Techncial College) that included the removal of ALL old computer hardware and ethernet wiring and replacing the entire school with new computers and running new wires in each classroom. I did very surface level networking with learning how to ping and identify networks and identifying IP addresses within a software system. I also did basic IT support that included inbound calls, chats, emails and several ticketing systems to help customers with technical issues. I've also done QA testing and editing within the code for a browser for a heart rate tracking software. 
+**Career Plans:** Upon competeing this program, I would like to obtain a position starting off as a cyber security analyst. I know one of my strong suits is being able to analyze and implement certin information along with my keen attention to detail.
+**Proud Project/Task:** I completed an entry level technical program called Year-up. I am particually proud of myself for completing this year long program because I was in school right before this and I wasn't interested in any work that I was doing. I was becoming complacent and I was able to push throuh this program without wanting to quit. I'm proud of myself for doing that and putting myself in position to complete a newer program and to elevate my skillset. 
